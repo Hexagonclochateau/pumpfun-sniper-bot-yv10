@@ -1,4 +1,4 @@
-# 
+# quantitative pump.fun sniper bot | dex-sniping + snipe-list-management is the best pump.fun sniper bot, featuring dex-sniping and snipe-list-management. Fast, smart, and optimized
 
 
 
